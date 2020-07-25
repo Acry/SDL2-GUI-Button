@@ -1,9 +1,11 @@
-SDL2-GUI-Button
+# SDL2-Button
 
-loads surface, creates Texture, checks rect intersection.
+![](button.gif)
 
-Press left mouse button to see mouse coordinates.
+Creates texture from surface, checks rect intersection.
 
-Help on [Question](https://discourse.libsdl.org/t/how-to-load-audio-and-make-a-button/24223/1)
-on [SDL-Discourse](https://discourse.libsdl.org).
+- Press button to flip background color.
 
+## Author and Contact
+
+[My Home Page](https://acry.github.io/)
